@@ -1,0 +1,4 @@
+[gitlab]
+ansible-test02   ansible_ssh_user=root
+#ansible-test02   ansible_ssh_user=root    ansible_ssh_host=10.3.0.34    ansible_ssh_private_key_file=~/.ssh/id_rsa-serverfesta
+#ansible-test02   ansible_ssh_user=root    ansible_ssh_host=10.3.0.143    ansible_ssh_private_key_file=~/.ssh/id_rsa-serverfesta
